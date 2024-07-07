@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20App%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-### 🌟 Available for New Opportunities:
+
 - 👨‍💻 I'm a Mobile App developer  
 - 👨‍💻 As a CS student, I'm constantly learning and exploring
   new technologies to improve my skills.
@@ -25,6 +25,15 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/IbrahimElseginy" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Elseginy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+### 📫 How to Reach Me: 
+<div align="center">
+    <a href="https://linkedin.com/in/IbrahimElseginy" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+    <a href="mailto:ibrahimelseginy020@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
+</div>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
