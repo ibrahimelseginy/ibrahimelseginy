@@ -22,16 +22,13 @@
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 
 
-### Connect with Me :
+### 📫 How to Reach Me: 
 
 <a href="https://linkedin.com/in/IbrahimElseginy" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Elseginy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 📫 How to Reach Me: 
-<div align="center">
-    <a href="https://linkedin.com/in/IbrahimElseginy" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-    <a href="mailto:ibrahimelseginy020@gmail.com">
+<a href="mailto:ibrahimelseginy020@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
-</div>
+
+    
 
 
 
