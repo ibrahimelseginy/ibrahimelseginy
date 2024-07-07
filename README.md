@@ -33,7 +33,7 @@
  <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
 </div> 
 
@@ -41,18 +41,3 @@
 Feel free to reach out if you have any opportunities, projects, or just want to connect and discuss tech! I'm excited about the possibilities ahead and eager to explore new horizons.
 
 ---
-Let's build something amazing together! 😊
-
-    
-
-
-
-### 🛠 &nbsp;Tech Stack
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![flutter](https://img.shields.io/badge/-flutter%20-05122A?style=flat&logo=flutter)&nbsp;
-![dart](https://img.shields.io/badge/-dart%20-05122A?style=flat&logo=dart)&nbsp;
-![firebase](https://img.shields.io/badge/-firebase%20-05122A?style=flat&logo=firebase)&nbsp;
-![androidstudio](https://img.shields.io/badge/-androidstudio%20-05122A?style=flat&logo=androidstudio)&nbsp;
-
