@@ -11,11 +11,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20App%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+### 🌟 Available for New Opportunities:
 - 👨‍💻 I'm a Mobile App developer  
 - 👨‍💻 As a CS student, I'm constantly learning and exploring
   new technologies to improve my skills.
 - 💬 Ask me about my experience with flutter and dart , or anything related to mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
+- 💼 Open to freelance projects and collaborations on exciting ventures.
+- 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
+
 
 ### Connect with Me :
 
