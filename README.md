@@ -15,11 +15,12 @@
 - 👨‍💻 I'm a Mobile App developer  
 - 👨‍💻 As a CS student, I'm constantly learning and exploring
   new technologies to improve my skills.
-- 💬 Ask me about my experience with flutter and dart , or anything related to mobile development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
 - 💼 Open to freelance projects and collaborations on exciting ventures.
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
+- 💬 Ask me about my experience with flutter and dart , or anything related to mobile development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
 
 
 ### 📫 How to Reach Me: 
