@@ -17,7 +17,7 @@
 - 💼 Open to freelance projects and collaborations on exciting ventures.
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 - 💬 Ask me about my experience with flutter and dart , or anything related to mobile development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡ DM me for freelance Work.
 
 
 
