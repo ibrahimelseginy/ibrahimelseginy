@@ -23,7 +23,7 @@
 
 ### 📫 How to Reach Me: 
 
-<a href="www.linkedin.com/in/ibrahiimelseginy" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Elseginy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linktr.ee/IbrahimElseginy" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Elseginy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ibrahimelseginy020@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
 <br>
